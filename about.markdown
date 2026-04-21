@@ -2,17 +2,25 @@
 layout: page
 title: About
 permalink: /about/
+author_profile: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## 틈틈이 틈을 틈
+안녕하세요. **'틈틈이 틈을 틈'** 블로그에 오신 것을 환영합니다.
+이곳은 바쁜 일상 속에서 **'틈'**을 내어 읽고, 배우고, 그 기록을 통해 생각의 **'틈'**을 틔우는 공간입니다.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### 왜 '틈틈이 틈을 틈'인가요?
+우리는 늘 바쁩니다. 하지만 그 속에서도 책 한 권을 펼칠 '틈'은 언제나 존재한다고 믿습니다.
+책이 던지는 질문에 귀를 기울이고 나만의 맥락을 찾아가는 과정을 기록합니다.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- **독서 기록**: 정답을 찾는 독서가 아닌, 질문을 남기는 독서를 지향합니다.
+- **생각의 확장**: 책과 책 사이, 그리고 삶과 책 사이의 연결고리를 탐구합니다.
+- **기록의 가치**: 흩어지는 생각들을 붙잡아 나만의 가상 도서관을 채워나갑니다.
 
+### 작성자 '이쑤시개'
+"책은 우리 안의 얼어붙은 바다를 깨는 도끼"라는 카프카의 말을 좋아합니다.
+바다는 못 깨더라도 작은 틈 정도는 만들어내는 존재가 되고 싶어 **'이쑤시개'**라는 필명을 사용합니다.
 
-[jekyll-organization]: https://github.com/jekyll
+---
+
+[블로그 홈으로 가기]({{ site.url }}{{ site.baseurl }}/)
