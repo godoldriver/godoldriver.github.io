@@ -207,7 +207,6 @@ markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
-future: true
 incremental: false
 
 
