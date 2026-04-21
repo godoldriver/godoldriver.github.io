@@ -13,8 +13,10 @@ last_modified_at: 2026-04-21T10:00:00+09:00
 toc: true
 toc_sticky: true
 header:
-  teaser: "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+  teaser: "/assets/images/Gemini_Generated_Image_6ma6ri6ma6ri6ma6.png"
 ---
+
+![옵시디언 마크다운 가이드 메인 이미지](/assets/images/Gemini_Generated_Image_6ma6ri6ma6ri6ma6.png)
 
 옵시디언(Obsidian)은 제텔카스텐이나 개인 지식 베이스를 구축하기에 더없이 훌륭한 도구입니다. 하지만 옵시디언에서 아주 자연스럽게 쓰던 문법들이 Jekyll(제킬) 기반의 블로그에서는 '사투리'처럼 외계어로 보일 때가 있습니다. 
 
