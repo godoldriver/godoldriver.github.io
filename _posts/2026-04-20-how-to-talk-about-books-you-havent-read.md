@@ -60,3 +60,17 @@ toc_sticky: true
 - **책장에 읽지 않은 책이 쌓여가는 분**: (저를 포함해서) 그 책들이 결코 무의미한 것이 아님을 위로받고 싶은 분.
 
 여러분의 책장에는 **'읽지 않았지만 소중한 책'**이 있나요? 그 책이 여러분의 가상 도서관에서 어떤 위치에 있는지 고민해보는 것만으로도 이미 독서는 시작된 것일지도 모릅니다.
+
+---
+
+<!-- 책 정보 카드 -->
+<div style="display: flex; flex-direction: column; align-items: center; border: 1px solid #eee; padding: 20px; border-radius: 10px; margin-top: 40px; background-color: #fafafa;">
+  <a href="https://www.yes24.com/product/goods/138336493" target="_blank" rel="noopener">
+    <img src="https://image.yes24.com/goods/138336493/xl" alt="읽지 않은 책에 대해 말하는 법 표지" style="max-width: 200px; height: auto; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 4px;">
+  </a>
+  <div style="text-align: center; margin-top: 15px;">
+    <h3 style="margin-bottom: 10px; border: none;">읽지 않은 책에 대해 말하는 법</h3>
+    <p style="font-size: 0.9em; color: #666; line-height: 1.5; max-width: 400px;">출간 즉시 전 세계인의 찬사가 쏟아진 최고의 화제작! 김영하의 북클럽에 소개된 베스트셀러.</p>
+    <a href="https://www.yes24.com/product/goods/138336493" target="_blank" rel="noopener" style="display: inline-block; margin-top: 10px; padding: 8px 16px; background-color: #333; color: #fff; text-decoration: none; border-radius: 5px; font-size: 0.85em;">책 정보 더 보기</a>
+  </div>
+</div>
