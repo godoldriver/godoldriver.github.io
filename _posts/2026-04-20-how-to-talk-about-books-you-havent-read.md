@@ -12,7 +12,11 @@ tags:
 last_modified_at: 2026-04-20T10:00:00-05:00
 toc: true
 toc_sticky: true
+header:
+  teaser: "/assets/images/Gemini_Generated_Image_2h9ycd2h9ycd2h9y.png"
 ---
+
+![읽지 않은 책에 대해 말하는 법 메인 이미지](/assets/images/Gemini_Generated_Image_2h9ycd2h9ycd2h9y.png)
 
 서평 블로그의 첫 글은 어떤 책으로 시작하면 좋을지 고민하다가 이 책이 떠올랐다. 피에르 바야르의 『읽지 않은 책에 대해 말하는 법』. 솔직하면서도 도발적인 제목이 인상적이다. 내용을 모르는 책에 대해서 말할 수 있는 마법 같은 방법이 있다고? 아니, 그보다... 읽지 않은 책에 대해서 함부로 말해도 되는 건가? 
 
