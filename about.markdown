@@ -5,8 +5,6 @@ permalink: /about/
 author_profile: true
 ---
 
-<div style="padding-left: 2em;">
-
 ## 틈틈이 틈을 틈
 안녕하세요. **'틈틈이 틈을 틈'** 블로그에 오신 것을 환영합니다.
 이곳은 바쁜 일상 속에서 **'틈'**을 내어 읽고, 배우고, 그 기록을 통해 생각의 **'틈'**을 틔우는 공간입니다.
@@ -26,5 +24,3 @@ author_profile: true
 ---
 
 [블로그 홈으로 가기]({{ site.url }}{{ site.baseurl }}/)
-
-</div>

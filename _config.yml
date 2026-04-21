@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : "이쑤시개"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/favicon.png"
   bio              : "틈틈이 틈을 틉니다."
   location         : "Somewhere"
   email            :
@@ -331,4 +331,11 @@ defaults:
       comments: true
       share: false
       related: false
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
