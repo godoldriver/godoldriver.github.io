@@ -33,3 +33,4 @@ _site
 
 # Gemini CLI
 .gemini/
+outputs
